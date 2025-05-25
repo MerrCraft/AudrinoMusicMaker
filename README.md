@@ -1,2 +1,2 @@
-# AudrinoMusicMaker
-Audrino music maker using a buzzer
+# Audrino Music Maker
+This is made mostly by ChatGPT
